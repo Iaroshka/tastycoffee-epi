@@ -1,0 +1,1 @@
+Тест интеграции GitHub с YouTrack
